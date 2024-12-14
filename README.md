@@ -1,0 +1,1 @@
+This is a web based project to efficiently manage your personal knowledge notes contents and others, that will continously keep track of all the related components. Whether you're a student, professional, or lifelong learner, this platform is your one-stop solution for staying organized and productive.
