@@ -1,0 +1,34 @@
+.dashboard-container {
+  display: flex;
+  flex-direction: column;
+  font-family: Arial, sans-serif;
+}
+
+.dashboard-nav {
+  display: flex;
+  justify-content: space-around;
+  background-color: #007bff;
+  padding: 10px;
+}
+
+.dashboard-nav button {
+  background: white;
+  color: #007bff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.dashboard-nav button:hover {
+  background: #0056b3;
+  color: white;
+}
+
+.dashboard-content {
+  padding: 20px;
+  background-color: #f8f9fa;
+  flex-grow: 1;
+  overflow-y: auto;
+}
